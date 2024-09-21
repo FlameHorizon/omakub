@@ -35,9 +35,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['<Super>3
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['<Super>4']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['<Super>5']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>6']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>7']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>8']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['<Super>9']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['<Super>7']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['<Super>8']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "['<Super>9']"
 
 # You can also use number pad keys to navigate for workspaces
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-1 "['KP_1']"
@@ -46,9 +46,9 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-3 "['KP_3']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-4 "['KP_4']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-5 "['KP_5']"
 gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['KP_6']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['KP_7']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['KP_8']"
-gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-6 "['KP_9']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-7 "['KP_7']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-8 "['KP_8']"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-9 "['KP_9']"
 
 # Reserve slots for custom keybindings
 gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom1/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom2/', '/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom3/']"
